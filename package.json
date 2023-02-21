@@ -1,0 +1,8 @@
+{
+  "name": "nvr-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.12"
+  }
+}
